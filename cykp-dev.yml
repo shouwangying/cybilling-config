@@ -3,4 +3,4 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/cykp
     username: root
-    password: 111143
+    password: 1111
